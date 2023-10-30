@@ -1,0 +1,81 @@
+/* Styling for the body element */
+body {
+  background-color: #fce6fc; /* Light pink background */
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  margin: 10;
+  padding: 0;
+}
+
+/* Styling for the main container, possibly the To-Do list container */
+.App {
+  background-color: #fff; /* White background */
+  padding: 20px;
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Shadow effect */
+  width: 300px;
+  margin: 0 auto; /* Center horizontally */
+}
+
+/* Styling for a footer element, if applicable */
+.Footer {
+  position: fixed;
+  bottom: 0;
+  width: 50%;
+  background-color: #ff80b0; /* Change the color to your desired color */
+  color: white; /* Text color for the footer */
+  text-align: center;
+  padding: 10px;
+}
+
+/* Styling for the main heading */
+h1 {
+  color: #ff80b0; /* Light pink text color */
+}
+
+/* Styling for text input elements */
+input[type="text"] {
+  width: 70%;
+  padding: 8px;
+  border: 1px solid #ff80b0;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+/* Styling for buttons, possibly used for adding tasks */
+button {
+  background-color: #ff80b0; /* Light pink button background */
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Styling for an unordered list (possibly the list of tasks) */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Styling for list items (individual tasks) */
+li {
+  background-color: #fff; /* White task background */
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ff80b0;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Styling for buttons inside list items, e.g., for removing tasks */
+li button {
+  background-color: #ff80b0;
+  color: #fff;
+  border: none;
+  padding: 5px 8px;
+  border-radius: 5px;
+  cursor: pointer;
+}

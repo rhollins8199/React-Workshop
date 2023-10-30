@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "task": "Attendance",
+    "complete": false
+  },
+  {
+    "id": 2,
+    "task": "Announcements",
+    "complete": false
+  },
+  {
+    "id": 3,
+    "task": "Lesson Overview",
+    "complete": false
+  },
+  {
+    "id": 4,
+    "task": "Expectations for next class",
+    "complete": false
+  }
+]
