@@ -1,4 +1,4 @@
-# React Workshop: Todo List
+# React.js Workshop: Todo List
 
 ![image](https://github.com/rhollins8199/todolistworkshop/assets/103677691/75a72dcb-8669-442d-8a55-0810d8fa03d7)
 
