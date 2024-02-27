@@ -1,4 +1,4 @@
-# Create Todo List Application Using React.js
+# Create Todo List Using React.js
 
 ![image](https://github.com/rhollins8199/todolistworkshop/assets/103677691/75a72dcb-8669-442d-8a55-0810d8fa03d7)
 
